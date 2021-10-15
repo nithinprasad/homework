@@ -1,5 +1,5 @@
-# luminor-homework
-Task By luminor
+# Homework
+Task
 you can run code by using
 ```python
 ./mvnw spring-boot:run
